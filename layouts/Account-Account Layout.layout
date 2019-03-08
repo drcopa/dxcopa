@@ -41,7 +41,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Premium__c</field>
+                <field>Custom_External_Id__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Enterprise__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
