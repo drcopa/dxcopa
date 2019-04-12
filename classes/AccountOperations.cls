@@ -1,4 +1,5 @@
 public class AccountOperations {
+
     public static Account setDefaultDescription(Account a) {        
         // If statements must use braces
         if (a.Description != null) return a;
@@ -16,4 +17,5 @@ public class AccountOperations {
         
         return a;
     }
+    
 }
